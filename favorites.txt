@@ -2,3 +2,4 @@ spaguetti
 pizza
 hamburguer
 barbacoa
+lomo
